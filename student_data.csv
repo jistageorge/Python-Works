@@ -1,0 +1,21 @@
+﻿StudentID,Name,Age,Gender,Class,Math,English,Science,Attendance,PreviousGrade,FinalGrade
+101,John Doe,15,Male,10,85,78,90,95,88,87
+102,Jane Smith,14,Female,9,92,88,84,88,89,91
+103,Mike Brown,16,Male,11,75,70,80,85,78,80
+104,Anna White,15,Female,10,65,82,74,80,73,75
+105,Chris Green,16,Male,12,90,95,92,99,94,96
+106,Emily Davis,14,Female,9,72,76,80,86,79,81
+107,Daniel Lee,15,Male,10,83,81,88,92,86,85
+108,Sophia Wilson,16,Female,11,87,90,85,91,88,89
+109,Liam Martinez,14,Male,9,78,72,76,84,80,82
+110,Olivia Brown,15,Female,10,94,91,89,96,92,93
+111,Noah Johnson,16,Male,12,88,85,90,94,87,89
+112,Ava Garcia,14,Female,9,82,83,81,88,85,84
+113,Ethan Jones,15,Male,10,77,75,79,87,80,81
+114,Isabella Miller,16,Female,11,84,86,83,90,85,87
+115,Lucas Martinez,14,Male,9,70,68,72,81,73,75
+116,Mia Brown,15,Female,10,92,93,94,98,95,96
+117,Benjamin Garcia,16,Male,12,80,79,85,90,83,84
+118,Charlotte Davis,14,Female,9,75,77,79,82,80,81
+119,James Lee,15,Male,10,88,90,92,94,89,90
+120,Amelia Johnson,16,Female,11,83,81,87,92,85,86
